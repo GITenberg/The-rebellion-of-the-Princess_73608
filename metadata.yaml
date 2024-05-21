@@ -1,0 +1,31 @@
+_repo: The-rebellion-of-the-Princess_73608
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Taylor, Mary Imlay
+    alias: Taylor, M. Imlay (Mary Imlay)
+    birthdate: 1878
+    deathdate: 1938
+    gutenberg_agent_id: '48463'
+    url: http://www.gutenberg.org/2009/agents/48463
+description: ''
+gutenberg_issued: '2024-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73608'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.hnnuz4&seq=5
+pgterms:marc905: 20240311180132taylor
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bMcCLure, Phillips & Co., $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The rebellion of the Princess
+url: http://www.gutenberg.org/ebooks/73608
