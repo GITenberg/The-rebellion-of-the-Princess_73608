@@ -1,5 +1,8 @@
 _repo: The-rebellion-of-the-Princess_73608
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73608-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Taylor, Mary Imlay
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '48463'
     url: http://www.gutenberg.org/2009/agents/48463
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73608#The-rebellion-of-the-Princess
 gutenberg_issued: '2024-05-12'
 gutenberg_type: Text
 identifiers:
